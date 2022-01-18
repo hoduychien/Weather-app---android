@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/Weather_Forecast/app/src/main/res/drawable-v24/bg_conner.xml" value="0.2203125" />
+        <entry key="..\:/Android/Weather_Forecast/app/src/main/res/drawable-v24/bg_conner_10_border.xml" value="0.2203125" />
+        <entry key="..\:/Android/Weather_Forecast/app/src/main/res/drawable-v24/bg_conner_10_border_right.xml" value="0.2203125" />
+        <entry key="..\:/Android/Weather_Forecast/app/src/main/res/drawable-v24/bg_conner_16.xml" value="0.2203125" />
+        <entry key="..\:/Android/Weather_Forecast/app/src/main/res/drawable-v24/bg_conner_bottom.xml" value="0.2203125" />
+        <entry key="..\:/Android/Weather_Forecast/app/src/main/res/drawable-v24/bg_conner_bottom_left.xml" value="0.2203125" />
+        <entry key="..\:/Android/Weather_Forecast/app/src/main/res/drawable-v24/bg_conner_cancel.xml" value="0.2203125" />
+        <entry key="..\:/Android/Weather_Forecast/app/src/main/res/drawable-v24/bg_conner_find.xml" value="0.2203125" />
+        <entry key="..\:/Android/Weather_Forecast/app/src/main/res/drawable-v24/bg_conner_top.xml" value="0.2203125" />
+        <entry key="..\:/Android/Weather_Forecast/app/src/main/res/drawable/bg_conner_16.xml" value="0.2203125" />
+        <entry key="..\:/Android/Weather_Forecast/app/src/main/res/drawable/bg_conner_bottom.xml" value="0.2203125" />
+        <entry key="..\:/Android/Weather_Forecast/app/src/main/res/drawable/bg_conner_bottom_while.xml" value="0.2203125" />
+        <entry key="..\:/Android/Weather_Forecast/app/src/main/res/drawable/bg_conner_top.xml" value="0.2203125" />
+        <entry key="..\:/Android/Weather_Forecast/app/src/main/res/drawable/bg_conner_top_24.xml" value="0.2203125" />
+        <entry key="..\:/Android/Weather_Forecast/app/src/main/res/drawable/bg_gradient_sun.xml" value="0.2203125" />
+        <entry key="..\:/Android/Weather_Forecast/app/src/main/res/drawable/conner_bg.xml" value="0.2203125" />
+        <entry key="..\:/Android/Weather_Forecast/app/src/main/res/drawable/ic_sunny.xml" value="0.2203125" />
+        <entry key="..\:/Android/Weather_Forecast/app/src/main/res/drawable/recycler_line.xml" value="0.2203125" />
+        <entry key="..\:/Android/Weather_Forecast/app/src/main/res/font/roboto.xml" value="0.17685185185185184" />
+        <entry key="..\:/Android/Weather_Forecast/app/src/main/res/layout/activity_chart.xml" value="0.2" />
+        <entry key="..\:/Android/Weather_Forecast/app/src/main/res/layout/activity_current_weather.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/Weather_Forecast/app/src/main/res/layout/activity_forecast.xml" value="0.25" />
+        <entry key="..\:/Android/Weather_Forecast/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Android/Weather_Forecast/app/src/main/res/layout/bg_gradient_sun.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/Weather_Forecast/app/src/main/res/layout/layout_dialog_add_location.xml" value="0.33" />
+        <entry key="..\:/Android/Weather_Forecast/app/src/main/res/layout/layout_dialog_detail_item_7day.xml" value="0.25" />
+        <entry key="..\:/Android/Weather_Forecast/app/src/main/res/layout/listview_line.xml" value="0.22" />
+        <entry key="..\:/Android/Weather_Forecast/app/src/main/res/layout/listview_line2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/Weather_Forecast/app/src/main/res/layout/main_layout_2.xml" value="0.25" />
+        <entry key="..\:/Android/Weather_Forecast/app/src/main/res/layout/recycler_line.xml" value="0.25" />
+        <entry key="..\:/Android/Weather_Forecast/app/src/main/res/layout/recycler_line2.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

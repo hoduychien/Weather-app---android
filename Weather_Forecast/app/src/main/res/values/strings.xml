@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="location" translatable="true">Location</string>
+    <string name="status" translatable="true">Status</string>
+    <string name="enter_address" translatable="true">Enter Locaion ...</string>
+    <string name="date" translatable="true">Date time</string>
+    <string name="text_weather_today">Today</string>
+    <string name="text_chart">Chart</string>
+    <string name="text_forecase">Forecast</string>
+    <string name="textToday">Today</string>
+    <string name="textChart">Chart</string>
+    <string name="text7day"><![CDATA[Next 7 days >]]></string>
+    <string name="textsunrise">SunRise</string>
+    <string name="textsunset">SunSet</string>
+    <string name="textwind">Wind Speed</string>
+    <string name="texthumidity">Humidity</string>
+    <string name="sea_level">Temp Max</string>
+    <string name="feels_like">Feels like</string>
+    <string name="clouds">Clouds</string>
+    <string name="pressure">Pressure</string>
+    <string name="update">Update</string>
+    <string name="today_s_weather">Today\'s weather</string>
+    <string name="temperature_chart">Temperature Chart</string>
+    <string name="map">Map</string>
+    <string name="enter_location">Enter location</string>
+    <string name="find_location">Find location</string>
+    <string name="cancel">Cancel</string>
+    <string name="find">Find</string>
+    <string name="max">Max</string>
+    <string name="min">Min</string>
+    <string name="temp_min">Temp Min</string>
+
+</resources>

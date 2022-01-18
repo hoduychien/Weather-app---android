@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Dự báo thời tiết</string>
+    <string name="location">Địa điểm</string>
+    <string name="status">Trời nắng</string>
+    <string name="enter_address">Nhập đia điểm ... </string>
+    <string name="date">Ngày giờ</string>
+    <string name="text_weather_today">Hôm nay</string>
+    <string name="text_chart">Biểu đồ</string>
+    <string name="text_forecase">Dự báo</string>
+    <string name="textToday">Hôm nay</string>
+    <string name="textChart">Biểu đồ</string>
+    <string name="text7day"><![CDATA[Tuần này>]]></string>
+    <string name="textsunrise">MT mọc</string>
+    <string name="textsunset">MT lặn</string>
+    <string name="textwind">Gió</string>
+    <string name="texthumidity">Độ ẩm</string>
+    <string name="sea_level">Cao nhất</string>
+    <string name="feels_like">Cảm nhận</string>
+    <string name="clouds">Mây</string>
+    <string name="pressure">Áp suất</string>
+    <string name="update">Cập nhật</string>
+    <string name="today_s_weather">Thời tiết hôm nay</string>
+    <string name="temperature_chart">Biểu đồ nhiệt độ</string>
+    <string name="map">Bản đồ</string>
+    <string name="enter_location">Nhập tên thành phố / quốc gia</string>
+    <string name="find_location">Tìm kiếm đia điểm</string>
+    <string name="cancel">Huỷ</string>
+    <string name="find">Tìm kiếm</string>
+    <string name="max">Max</string>
+    <string name="min">Min</string>
+    <string name="temp_min">Thấp nhất</string>
+</resources>
